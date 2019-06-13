@@ -1,0 +1,17 @@
+@tailwind base; 
+
+.test {
+    background: blue;
+}
+
+.page-something {
+    color: red
+}
+
+.bobby {
+    color: green;
+}
+
+@tailwind components;
+
+@tailwind utilities;
