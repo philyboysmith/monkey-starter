@@ -7563,6 +7563,11 @@ purgecss-webpack-plugin@^1.5.0:
     purgecss "^1.3.0"
     webpack-sources "^1.3.0"
 
+purgecss-with-wordpress@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/purgecss-with-wordpress/-/purgecss-with-wordpress-1.0.0.tgz#5e7b23345d7745d55655bfee918cdca3572cd18d"
+  integrity sha512-GmMpNV7/jTi2y8JcxfT6fyEejYYpbVc1lYuOiOfW2OaBeSEE6PFZf1RuKpxqHmsBz1ZKGkAw4DJ5W8PS1VaY3g==
+
 purgecss@^1.3.0:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/purgecss/-/purgecss-1.3.0.tgz#fc3c303df9a74a75547545b2c0da28a9ec63da00"

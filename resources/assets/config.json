@@ -8,8 +8,8 @@
       "./scripts/customizer.js"
     ]
   },
-  "publicPath": "/wp-content/themes/monkey-starter",
-  "devUrl": "http://amillionmonkeys.test",
+  "publicPath": "/wp-content/themes/cryo",
+  "devUrl": "http://cryo.test",
   "proxyUrl": "http://localhost:3000",
   "cacheBusting": "[name]_[hash:8]",
   "watch": [
